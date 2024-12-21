@@ -13,7 +13,7 @@ Having information about a medicine’s safety, effectiveness, and dosing for ch
 ### Benefits
 - **Centralized Information**: All relevant data is stored in one place, making it easily accessible and reducing the risk of missing critical updates.
 - **Data Analysis and Trends**: The structured format allows for analysis over time, identifying trends in pediatric drug approvals, safety updates, or changes in dosing recommendations, guiding future research and policy-making.
-- **Historical Reference**: With data dating back to 1998, the database offers a historical perspective on pediatric drug development, useful for academic research, policy analysis, and long-term health strategy planning.
+- **Historical Reference**: With data dating back to 2007, the database offers a historical perspective on pediatric drug development, useful for academic research, policy analysis, and long-term health strategy planning.
 - **Efficiency**: Quick access to detailed information means healthcare providers can spend more time on patient care rather than administrative tasks like document review.
 - **Educational Resource**: It serves as an educational tool for medical students, pharmacists, pediatricians, and researchers interested in pediatric pharmacology or regulatory science.
 - **Scalability and Updateability**: As new labeling changes occur, they can be easily added to the database, ensuring that the information remains current and relevant.
