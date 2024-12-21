@@ -4,8 +4,7 @@
 Having information about a medicine’s safety, effectiveness, and dosing for children in the product’s labeling is important to ensure health care professionals can make evidence-based decisions about treating children. A pediatric labeling change refers to any update to a product’s labeling to add information about safety, effectiveness, or dosing for children. Many labeling changes represent a new FDA approval for children, while others provide new safety or efficacy information.
 
 ## Motivation
-
-The motivation for creating the Pediatric Labeling Changes Database stems from a desire to ensure that healthcare professionals have access to the most accurate and comprehensive information regarding pediatric medications. Understanding the safety, efficacy, and appropriate dosing for children is crucial for making informed medical decisions. By compiling and regularly updating this database, I aim to support evidence-based pediatric care and compliance with regulatory requirements. This project is driven by a commitment to improve health outcomes for children and to facilitate better understanding and utilization of pediatric drug information.
+The motivation for creating the Pediatric Labeling Changes Database stems from a desire to ensure that healthcare professionals have access to the most accurate and comprehensive information regarding pediatric medications. As someone who works with children a lot, I understand the importance of having reliable information to make informed medical decisions. Additionally, I have always been intrigued by how medicine changes over time, and this database allows me to contribute to the ongoing improvement of pediatric healthcare by tracking these changes.
 
 ## Importance and Benefits
 
