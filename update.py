@@ -5,15 +5,15 @@ except ImportError:
   exit()
   
 # Update the database
-subprocess.run(["python", "data_load.py"])
+subprocess.run(["python", "Database Creation/data_load.py"])
 
 # Update the graph
-subprocess.run(["python", "labeling_changes.py"])
+subprocess.run(["python", "Analytics/labeling_changes.py"])
 
 while True:
   queries = input("Would you like to run the queries? (y/n): ")
   if queries == "y":
-    subprocess.run(["python", "queries.py"])
+    subprocess.run(["python", "Analytics/queries.py"])
     break
   elif queries == "n":
     break
