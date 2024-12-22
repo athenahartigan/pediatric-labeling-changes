@@ -41,7 +41,7 @@ These laws encourage and, in certain circumstances, require pharmaceutical compa
 
 The graph below shows the number of labeling changes for pediatric populations under certain federal laws. The number of pediatric labeling changes includes each individual label change approved by the FDA. One product may undergo several pediatric labeling changes.
 
-![Labeling Changes Per Year](Database Creation/LabelingChangesPerYear.png)
+![Labeling Changes Per Year](Analytics/LabelingChangesPerYear.png)
 
 **Note:** This section will be updated quarterly.
 
