@@ -42,12 +42,6 @@ except ImportError:
   exit()
 
 try:
-  import seaborn as sns
-except ImportError:
-  print("Error: seaborn library not found. Please install it using 'pip install seaborn'.")
-  exit()
-
-try:
   from rdkit import Chem
   from rdkit.ML.Descriptors import MoleculeDescriptors
   from rdkit.Chem import Descriptors
