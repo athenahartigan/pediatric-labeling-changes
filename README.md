@@ -41,7 +41,7 @@ These laws encourage and, in certain circumstances, require pharmaceutical compa
 
 The graph below shows the number of labeling changes for pediatric populations under certain federal laws. The number of pediatric labeling changes includes each individual label change approved by the FDA. One product may undergo several pediatric labeling changes.
 
-![Labeling Changes Per Year](Analytics/LabelingChangesPerYear.png)
+![Labeling Changes Per Year](Analytics/Images/LabelingChangesPerYear.png)
 
 **Note:** This section will be updated quarterly.
 
@@ -113,7 +113,7 @@ This spreadsheet contains pediatric study characteristics for clinical trials co
 
 The diagram below shows the relationships between the tables in the database using Chen's notation. Primary keys are underlined and color-coded for easier coding reference.
 
-![Entity-Relationship Diagram](Analytics/ER-Diagram.jpg)
+![Entity-Relationship Diagram](Analytics/Images/ER-Diagram.jpg)
 
 ## Data Cleaning, Loading, and Querying
 
