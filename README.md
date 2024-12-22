@@ -102,6 +102,15 @@ The diagram below shows the relationships between the tables in the database usi
 
 ![Entity-Relationship Diagram](ER-Diagram.jpg)
 
+## Data Cleaning, Loading, and Querying
+The `data_load.py` script handles data loading and database creation, merging data from multiple Excel files into a SQLite database. The process involves reading data, preprocessing, and splitting the data into appropriate tables.
+
+## Database Implementation
+The database is implemented using SQLite3. It includes 39 tables with 81 attributes, designed to efficiently manage pediatric labeling changes. The database currently holds 677,950 entries after migrating data from Excel.
+
+## Figures
+Figures, such as the labeling changes per year, are generated using SQL queries and visualized with Python libraries like Matplotlib.
+
 ## Updates
 This database will be updated regularly to include the latest pediatric labeling changes and study data. Note that updates may not always coincide with the FDA's quarterly updates; the most up-to-date information can be obtained by running the code yourself.
 
