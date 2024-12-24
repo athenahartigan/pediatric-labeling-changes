@@ -116,3 +116,7 @@ This database will be updated regularly to include the latest pediatric labeling
 
 ## Conclusion
 The data provided offers valuable insights into pediatric labeling changes and helps ensure that health care professionals can make informed decisions about treating pediatric populations.
+
+## Copyright
+
+© 2024 Athena Hartigan. All rights reserved.
